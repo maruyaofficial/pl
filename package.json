@@ -1,0 +1,32 @@
+{
+  "theme_color": "#dc2626",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "MaruyaTV",
+  "short_name": "MaruyaTV",
+  "description": "Watch Free TV Shows Online, Watch Free Movies Online",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/cmOdVwr.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.imgur.com/cmOdVwr.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.imgur.com/cmOdVwr.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.imgur.com/cmOdVwr.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
